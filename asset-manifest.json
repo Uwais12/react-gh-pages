@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.69f88143.css",
+    "main.css": "/react-gh-pages/static/css/main.2cfc7396.css",
     "main.js": "/react-gh-pages/static/js/main.feb264b5.js",
     "static/media/bg3.jpg": "/react-gh-pages/static/media/bg3.b92298363e30d27d26e9.jpg",
     "static/media/climbing.png": "/react-gh-pages/static/media/climbing.bfe88b1a30603a39e49c.png",
@@ -14,11 +14,11 @@
     "static/media/appleLogo.png": "/react-gh-pages/static/media/appleLogo.20a615eb92ead5a92dfa.png",
     "static/media/snkrs.png": "/react-gh-pages/static/media/snkrs.1b46c67a977f16cf59a6.png",
     "index.html": "/react-gh-pages/index.html",
-    "main.69f88143.css.map": "/react-gh-pages/static/css/main.69f88143.css.map",
+    "main.2cfc7396.css.map": "/react-gh-pages/static/css/main.2cfc7396.css.map",
     "main.feb264b5.js.map": "/react-gh-pages/static/js/main.feb264b5.js.map"
   },
   "entrypoints": [
-    "static/css/main.69f88143.css",
+    "static/css/main.2cfc7396.css",
     "static/js/main.feb264b5.js"
   ]
 }
