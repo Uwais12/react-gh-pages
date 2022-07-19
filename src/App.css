@@ -510,10 +510,12 @@ button {
 
   .appDisplay {
     transform: translateY(20em);
+    z-index: 100;
   }
 
   .folderDisplay {
     transform: translateY(20em);
+    z-index: 100;
   }
 
   .introText {
@@ -728,6 +730,7 @@ button {
   border: 2pt solid black;
   flex-direction: column;
   justify-content: space-between;
+  z-index: 100;
 }
 
 
@@ -741,6 +744,7 @@ button {
   border: 2pt solid black;
   flex-direction: column;
   justify-content: space-between;
+  z-index: 100;
   /* align-items: flex-end; */
 }
 
