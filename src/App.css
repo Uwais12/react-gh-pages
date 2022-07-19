@@ -866,8 +866,8 @@ p {
   position: fixed;
   opacity: 0;
   animation:
-    fadeIn 2s 1s forwards,
-    fadeOut 2s 3s forwards;
+    fadeIn 1s 1s forwards,
+    fadeOut 1s 3s forwards;
 
   /* animation: fadeOut 3s 3s forwards; */
 }
@@ -876,8 +876,8 @@ p {
   opacity: 0;
   position: fixed;
   animation:
-    fadeIn 2s 5s forwards,
-    fadeOut 2s 7s forwards;
+    fadeIn 1s 4s forwards,
+    fadeOut 1s 6s forwards;
 
   /* animation: fadeOut 3s 3s forwards; */
 }
@@ -886,7 +886,7 @@ p {
   position: fixed;
   opacity: 0;
   animation:
-    fadeIn 2s 9s forwards;
+    fadeIn 1s 7s forwards;
   /* fadeOut 2s 4s forwards; */
 
   /* animation: fadeOut 3s 3s forwards; */
